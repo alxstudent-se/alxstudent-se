@@ -1,4 +1,5 @@
 ### Hi there 👋
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=alxstudent-se&show_icons=true&theme=dark&layout=compact" />
 </a>
@@ -6,8 +7,6 @@
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxstudent-se&langs_count=8&theme=dark&layout=compact" />
 </a>
 <p>
-<div align="center">
-
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
