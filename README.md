@@ -1,5 +1,4 @@
 ### Hi there 👋
-<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=alxstudent-se&show_icons=true&theme=dark&layout=compact" />
 </a>
